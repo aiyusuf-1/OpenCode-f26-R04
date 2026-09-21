@@ -1,10 +1,10 @@
 {
   "$schema": "https://opencode.ai/theme.json",
   "defs": {
-    "nord0": "#2E3440",
-    "nord1": "#3B4252",
-    "nord2": "#434C5E",
-    "nord3": "#4C566A",
+    "nord0": "#2E3040",
+    "nord1": "#3B4352",
+    "nord2": "#43415E",
+    "nord3": "#4C576A",
     "nord4": "#D8DEE9",
     "nord5": "#E5E9F0",
     "nord6": "#ECEFF4",
@@ -20,12 +20,12 @@
   },
   "theme": {
     "primary": {
-      "dark": "nord8",
-      "light": "nord10"
+      "dark": "#FF0000",
+      "light": "nord13"
     },
     "secondary": {
-      "dark": "nord9",
-      "light": "nord9"
+      "dark": "#FF0000",
+      "light": "nord1"
     },
     "accent": {
       "dark": "nord7",
@@ -48,7 +48,7 @@
       "light": "nord10"
     },
     "text": {
-      "dark": "nord4",
+      "dark": "#FF0000",
       "light": "nord0"
     },
     "textMuted": {
