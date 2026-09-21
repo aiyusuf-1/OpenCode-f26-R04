@@ -4,5 +4,5 @@
     "dockerfile": "Dockerfile",
     "context": ".."
   },
-  "postCreateCommand": "bun install"
+  "postCreateCommand": "bun install --frozen-lockfile"
 }
